@@ -6,4 +6,4 @@
 
 #### Go on, Ask away!
 
- ![Demo](https://user-images.githubusercontent.com/69676094/119943081-30466080-bfb0-11eb-8a8f-11ccde622e1c.mp4)
+ ![Demo](https://user-images.githubusercontent.com/69676094/119944809-5bca4a80-bfb2-11eb-99cb-ee1de4abed27.gif)
