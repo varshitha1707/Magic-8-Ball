@@ -6,4 +6,4 @@
 
 #### Go on, Ask away!
 
- ![8ballDemo](https://user-images.githubusercontent.com/69676094/119943081-30466080-bfb0-11eb-8a8f-11ccde622e1c.mp4)
+ ![8ballDemo](https://github.com/varshitha1707/Magic-8-Ball/issues/1#issue-904812714)
